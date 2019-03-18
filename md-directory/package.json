@@ -1,0 +1,22 @@
+{
+  "name": "md-directory",
+  "version": "0.1.0",
+  "description": "this is an application that provides querying tools and visualization for a dataset of health care providers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgcioce/cltHackathon2019.git"
+  },
+  "author": "Mike Cioce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgcioce/cltHackathon2019/issues"
+  },
+  "homepage": "https://github.com/mgcioce/cltHackathon2019#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
